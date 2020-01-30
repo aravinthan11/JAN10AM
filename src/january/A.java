@@ -11,5 +11,5 @@ public class A {
 			A b=new A();
 			b.saving();
 			b.fixed();
-
+System.out.println("I'll deposit money in fixed");
 }}
